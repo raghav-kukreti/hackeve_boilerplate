@@ -22,3 +22,22 @@ h1 {
 p {
 	padding-left: 30px;
 }
+
+.position_box {
+	border: 2px solid #000;
+	height: 40vh;
+	margin: 20px 500px;
+}
+
+.inner_box {
+	position: relative;
+	
+	top: 40px;
+	left: 40px;
+	bottom: 40px;
+	right: 40px;
+
+	height: 100px;
+	width: 100px;
+	background: #a7a7a7;
+}
